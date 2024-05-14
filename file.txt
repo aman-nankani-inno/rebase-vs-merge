@@ -1,1 +1,2 @@
 1. Changes from second branch
+2. Second changes from second branch
