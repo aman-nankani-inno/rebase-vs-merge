@@ -2,3 +2,4 @@
 2. Second changes from second branch
 3. second-branch-1
 4. conflict creation from master
+5. Conflict creation from master-2
