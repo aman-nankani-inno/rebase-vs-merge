@@ -6,3 +6,4 @@
 4. Conflict creation from master-2
 
 5. Conflict creation from master-3
+5. Conflict creation from second-branch-2
