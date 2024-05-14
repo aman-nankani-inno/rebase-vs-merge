@@ -10,3 +10,4 @@
 5. second-branch-conflict-2
 5. master branch conflict 2
 6. master branch conflict 3
+6. second branch conflict 4
